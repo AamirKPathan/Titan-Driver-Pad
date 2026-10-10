@@ -29,7 +29,10 @@ I started designing the PCB for my FRC 5719 Driver Deck using KiCad! The goal is
 So far, I’ve worked on connecting the XIAO RP2040, the switches and diodes, and the OLED display. I also started wiring the RGB LEDs, including the level shifter and capacitor needed to help them work reliably.
 
 There’s still work to do on the PCB layout and checking the connections, but the schematic is starting to come together!
-
+I split my work session into 3 half hour sessions.
+Session 1: Getting some footprints, and putting them down.
+Session 2: Wiring.
+Session 3: ERC Checking.
 ![Screenshot 2026-10-09 220040](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/mMkeINXdat1OsxoRzzN92XO37bxlBv3I/ad9a5be33962ca79fa2c13bd423fbf62256d6539dc35447558ffdefcf461f440.png)
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/mMkeINXdat1OsxoRzzN92XO37bxlBv3I/f5bd0e22d3be53fc93c17bbd58ab140a9673fc452a87698fc0ffdde33f355893.png)
 
