@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 7.22h | 5 |
+| Week 1 | Tier 1 | 6.02h | 5 |
 
 ## Contents
 
@@ -87,7 +87,7 @@ So I finally finished the driver pad PCB, now i am going to start the Operator P
 
 ### 2026-10-10 – #### October 10: Exports!!!!
 
-**1.22h**
+**0.02h**
 
 #### October 10: Exports!!!!
 
@@ -96,4 +96,4 @@ So I got Platform IO downloaded and made the template firmware for what I will p
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/mMkeINXdat1OsxoRzzN92XO37bxlBv3I/9a519e9afe0095b7c1d47a242c5ca05867b34b1839a9a909a111a344c4e65fb2.png)
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/mMkeINXdat1OsxoRzzN92XO37bxlBv3I/dc5cc917a54a8b27ef4690c20cc463b847cff03c0616b078d08f74211128c7c2.png)
 
-**Time spent this session: [1.22]**
+**Time spent this session: [Hackatime Hours]**
