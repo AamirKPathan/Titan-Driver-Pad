@@ -78,7 +78,7 @@ I also found some spares from my hackpad. So yeah I also ignored the ERC and fix
 
 #### October 10: Exports!!!!
 
-So I finally finished the driver pad PCB and fixed the matrix wiring issues. Now i am going to start the Operator Pad PCB; it should be pretty similar but with 0 cherry mx switches and its going to be very basic, so we are going to add a function for each of the 2 encoders I don't know what yet but yea.
+So I finally finished the driver pad PCB, now i am going to start the Operator Pad PCB it should be pretty similar but with 0 cherry mx switches and its going to be very basic, so we are going to add a function for each of the 2 encoders I don't know what yet but yea.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/mMkeINXdat1OsxoRzzN92XO37bxlBv3I/9180616f35cfb405d55a7bb922ae32d3054d17faa7a88e57857f728b36f9feca.png)
 
