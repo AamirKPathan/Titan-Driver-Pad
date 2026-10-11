@@ -1,4 +1,5 @@
 # FRC 5719 Titan Driver Pad
+![Final Product](<Assets/Titan Driver Pad Images/October 11, 2026/Final Product.png>)
 
 A custom PCB-based button controller project for FRC 5719. The controller uses a Seeed Studio XIAO ESP32-C3, eight Cherry MX-style mechanical switches, and a small OLED display.
 
