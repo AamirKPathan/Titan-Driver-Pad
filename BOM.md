@@ -16,7 +16,7 @@
 | [Custom PCB](https://jlcpcb.com/?from=VGS&utm_source=google&utm_medium=cpc&utm_campaign=14177189905&gad_source=1&gad_campaignid=14177189905&gbraid=0AAAAABS1Qql1fC7jJkKEFocyHx9dlwxaV&gclid=CjwKCAjw56zWBhB0EiwAdPOQOc7zwV7lpl3EAup-I03n7j7jkeyHU_fJ0MmVVICdN5v6lPr-z2rdPBoCDoQQAvD_BwE) | For The Components | 1 | $5.50 | $5.50 | [JLCPCB](https://jlcpcb.com/?from=VGS&utm_source=google&utm_medium=cpc&utm_campaign=14177189905&gad_source=1&gad_campaignid=14177189905&gbraid=0AAAAABS1Qql1fC7jJkKEFocyHx9dlwxaV&gclid=CjwKCAjw56zWBhB0EiwAdPOQOc7zwV7lpl3EAup-I03n7j7jkeyHU_fJ0MmVVICdN5v6lPr-z2rdPBoCDoQQAvD_BwE) |
 | [Bottom Case](https://TBD.com) | To Prevent Shorts | 1 | $2.25 | $2.25 | [Printing Legion](https://TBD.com) |
 | **Parts subtotal** | — | — | — | **$8.31** | — |
-| **Tax & shipping** | — | — | — | **$6.87** | — |
-| **Total** | — | — | — | **$15.18** | — |
+| **Tax & shipping** | — | — | — | **$2.75** | — |
+| **Total** | — | — | — | **$11.06** | — |
 
-$14.82 left of the tier's funding.
+$18.94 left of the tier's funding.
