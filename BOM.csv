@@ -1,1 +1,9 @@
-Part,Qty,Unit,Total,Vendor
+Part,Part Purpose,QTY,Link
+Seeed XIAO ESP32-C3,Main microcontroller,1,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
+0.91-inch SSD1306 OLED 128x32 I2C,Status display,1,https://www.aliexpress.com/w/wholesale-0.91-inch-128x32-ssd1306-i2c-oled.html
+Cherry MX-compatible mechanical switches,Button inputs,8,https://www.aliexpress.com/w/wholesale-mx-mechanical-keyboard-switches.html
+1N4148 switching diodes,Switch matrix isolation,8,https://www.aliexpress.com/w/wholesale-1n4148-diode.html
+Cherry MX-compatible keycaps,Button tops,8,https://www.aliexpress.com/w/wholesale-cherry-mx-keycaps.html
+M2 screws and standoffs,Mount PCB to bottom case,As required,https://www.aliexpress.com/w/wholesale-m2-screws-standoffs-kit.html
+Custom 2-layer FR-4 PCB,Main circuit board,1,https://cart.jlcpcb.com/quote
+Bottom case,Enclosure with no top cover,1,Custom fabrication
