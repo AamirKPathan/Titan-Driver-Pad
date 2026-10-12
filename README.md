@@ -5,6 +5,33 @@ A custom PCB-based button controller project for FRC 5719. The controller uses a
 
 **Enclosure:** Bottom case only. There is no top case or cover.
 
+## Project Images
+
+| Final product | PCB render |
+|---|---|
+| ![Final product](<Assets/Titan Driver Pad Images/October 11, 2026/Final Product.png>) | ![Full PCB render](<Assets/Titan Driver Pad Images/October 11, 2026/PCB/Full PCB Render.png>) |
+
+<details>
+<summary>Design and development views</summary>
+
+### Schematic
+
+![Finished schematic](<Assets/Titan Driver Pad Images/October 9, 2026/Schematic/Schematic Finish.png>)
+
+### PCB outline
+
+![Final PCB outline](<Assets/Titan Driver Pad Images/October 10, 2026/PCB Outline/PCB Outline FInal.png>)
+
+### Firmware project
+
+![PlatformIO project structure](<Assets/Titan Driver Pad Images/October 10, 2026/Firmware/Platform IO Structure.png>)
+
+### Electrical rules check
+
+![ERC report](<Assets/Titan Driver Pad Images/October 10, 2026/ERC/ERC.png>)
+
+</details>
+
 ## Project Status
 
 - [x] Firmware builds successfully with PlatformIO.
@@ -157,4 +184,4 @@ Adjust the folder names in this section to match the actual project structure.
 
 ## Credits
 
-Developed for FRC Team 5719 — Titan.
+Developed for FRC Team 5719 — Pink Titans.
